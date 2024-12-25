@@ -97,16 +97,22 @@ The repository contains the following files:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Iron-chest/DEVOPS_INTERVIEW_QUESTIONS/PYTHON/
+   git clone [https://github.com/Iron-chest/DEVOPS_INTERVIEW_QUESTIONS/PYTHON/](https://github.com/Iron-chest/DevOps-Interview-Questions.git)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd smallest-missing-positive
+   cd PYTHON
    ```
 
-3. Run the solution:
+3. Navigate to the project file:
+
+   ```bash
+   cd solution.py
+   ```
+
+4. Run the solution:
 
    ```bash
    python solution.py
