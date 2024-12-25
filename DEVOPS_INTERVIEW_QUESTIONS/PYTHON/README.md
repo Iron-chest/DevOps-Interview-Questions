@@ -97,12 +97,13 @@ The repository contains the following files:
 1. Clone the repository:
 
    ```bash
+
    git clone [https://github.com/Iron-chest/DEVOPS_INTERVIEW_QUESTIONS/PYTHON/](https://github.com/Iron-chest/DevOps-Interview-Questions.git)
-   ```
 
 2. Navigate to the project directory:
 
    ```bash
+<<<<<<< HEAD
    cd PYTHON
    ```
 
@@ -118,5 +119,6 @@ The repository contains the following files:
    python solution.py
    ```
 
+ 
  
 
