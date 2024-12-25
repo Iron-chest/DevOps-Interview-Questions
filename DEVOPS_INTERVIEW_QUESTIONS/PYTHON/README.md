@@ -112,13 +112,5 @@ The repository contains the following files:
    python solution.py
    ```
 
-## Testing
-
-Test cases are provided in the `tests/` directory. You can run the tests using:
-
-```bash
-pytest tests/
-```
-
  
 
