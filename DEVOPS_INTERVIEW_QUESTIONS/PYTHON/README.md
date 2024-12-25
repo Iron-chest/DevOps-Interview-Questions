@@ -97,7 +97,7 @@ The repository contains the following files:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Iron-chest/smallest-missing-positive.git
+   git clone https://github.com/Iron-chest/DEVOPS_INTERVIEW_QUESTIONS/PYTHON/
    ```
 
 2. Navigate to the project directory:
