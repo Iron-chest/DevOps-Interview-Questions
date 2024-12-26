@@ -23,6 +23,6 @@ def solution(A):
     return N + 1
  
 # Example usage:
-print(solution([1, 3, 6, 4, 1, 2]))  # Output: 5
+print(solution([1, 3, 6, 4, 1, 2]))   # Output: 5
 print(solution([1, 2, 3]))            # Output: 4
 print(solution([-1, -3]))             # Output: 1
